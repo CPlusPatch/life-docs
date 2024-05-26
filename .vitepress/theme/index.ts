@@ -2,6 +2,7 @@
 import type { Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
+import "./theme.css";
 
 export default {
     extends: DefaultTheme,

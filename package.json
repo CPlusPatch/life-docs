@@ -1,21 +1,21 @@
 {
-  "name": "life-docs",
-  "type": "module",
-  "devDependencies": {
-    "@biomejs/biome": "^1.7.3",
-    "@types/bun": "latest",
-    "markdown-it-image-figures": "^2.1.1",
-    "vitepress": "^1.2.2",
-    "vitepress-plugin-tabs": "^0.5.0",
-    "vitepress-sidebar": "^1.23.2"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
-  "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
-  },
-  "trustedDependencies": ["@biomejs/biome"]
+    "name": "life-docs",
+    "type": "module",
+    "devDependencies": {
+        "@biomejs/biome": "^1.7.3",
+        "@types/bun": "latest",
+        "markdown-it-image-figures": "^2.1.1",
+        "vitepress": "^1.2.2",
+        "vitepress-plugin-tabs": "^0.5.0",
+        "vitepress-sidebar": "^1.23.2"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "scripts": {
+        "docs:dev": "vitepress dev",
+        "docs:build": "vitepress build",
+        "docs:preview": "vitepress preview"
+    },
+    "trustedDependencies": ["@biomejs/biome"]
 }

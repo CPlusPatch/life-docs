@@ -35,6 +35,7 @@ export default defineConfig({
         },
         sidebar: generateSidebar({
             documentRootPath: "docs",
+            useTitleFromFrontmatter: true,
         }),
         // https://vitepress.dev/reference/default-theme-config
     },

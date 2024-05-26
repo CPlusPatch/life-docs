@@ -1,25 +1,3 @@
-<style>
-    figure {
-        margin: 1em 0;
-    }
-
-    figure > figcaption {
-        text-align: center;
-        font-size: 0.8em;
-        font-weight: semibold;
-        margin-top: 0.5em;
-        color: var(--vp-c-text-2);
-    }
-
-    img {
-        border-radius: 0.3em;
-    }
-
-    h1 {
-        margin-top: 1.5em;
-    }
-</style>
-
 > [!IMPORTANT]
 > This document is not feature-complete and is a work in progress. Please check back later for more information.
 
