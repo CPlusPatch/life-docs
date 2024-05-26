@@ -21,6 +21,16 @@ export default defineConfig({
     },
     assetsDir: "assets",
     srcDir: "docs",
+    locales: {
+        root: {
+            label: "English",
+            lang: "en-US",
+        },
+        "fr-FR": {
+            label: "Français",
+            lang: "fr-FR",
+        },
+    },
     themeConfig: {
         footer: {
             copyright: "© Created by CPlusPatch (Jesse), 2024",
@@ -38,6 +48,7 @@ export default defineConfig({
             documentRootPath: "docs",
             useTitleFromFrontmatter: true,
         }),
+        i18nRouting: true,
         // https://vitepress.dev/reference/default-theme-config
     },
     lang: "en-US",
