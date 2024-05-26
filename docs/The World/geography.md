@@ -14,12 +14,13 @@ There is no part of the world that has not been explored or mapped. Every inch o
 
 The Earth can be divided into a couple of separate landmasses, known as continents. There are roughly seven such major landmasses, each with its own unique geography, climate, and culture.
 
+All maps are from Wikimedia Commons, a website that shares images and media.
+
 ### Africa
 
-Africa is the second-largest continent on Earth, after Asia. It is home to a diverse range of cultures, languages, and peoples. The continent is known for its vast deserts, dense rainforests, and savannahs.
+Africa is the second-largest continent on Earth, after Asia. It is home to a diverse range of cultures, languages, and peoples. The continent is known for its vast deserts, dense rainforests, and savannas.
 
 ![A map of Africa.](https://upload.wikimedia.org/wikipedia/commons/8/86/Africa_%28orthographic_projection%29.svg)
-
 
 ### Asia
 

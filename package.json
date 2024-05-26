@@ -5,6 +5,7 @@
         "@biomejs/biome": "^1.7.3",
         "@types/bun": "latest",
         "markdown-it-image-figures": "^2.1.1",
+        "markdown-it-mathjax3": "^4.3.2",
         "vitepress": "^1.2.2",
         "vitepress-plugin-tabs": "^0.5.0",
         "vitepress-sidebar": "^1.23.2"

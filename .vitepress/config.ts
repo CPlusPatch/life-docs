@@ -17,6 +17,7 @@ export default defineConfig({
             // @ts-expect-error The error thrown here is incorrect
             md.use(tabsMarkdownPlugin);
         },
+        math: true,
     },
     assetsDir: "assets",
     srcDir: "docs",

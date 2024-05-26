@@ -11,6 +11,14 @@ This is not meant to be comprehensive or exhaustive, but instead a collection of
 
 This document is written as if the reader was "born yesterday" and has no prior knowledge of the world. There are many things in here that may seem obvious to everyone, but they are still included for the sake of not assuming anything.
 
+## Formatting
+
+This document is written in Markdown, a simple and easy-to-read format that can be converted into many other formats. It is designed to be read in a text editor, but can also be converted into a PDF or HTML file for easier reading.
+
+### Style Guidelines
+
+- **Numbers**: All numbers should be put in backticks (the `` ` `` character), like `1,000`.
+
 ---
 
 # Appendix
