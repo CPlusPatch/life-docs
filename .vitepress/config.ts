@@ -47,6 +47,7 @@ export default defineConfig({
         sidebar: generateSidebar({
             documentRootPath: "docs",
             useTitleFromFrontmatter: true,
+            excludeFolders: ["fr-FR"],
         }),
         i18nRouting: true,
         // https://vitepress.dev/reference/default-theme-config
