@@ -1,3 +1,4 @@
+import taskLists from "@hackmd/markdown-it-task-lists";
 import implicitFigures from "markdown-it-image-figures";
 import { defineConfig } from "vitepress";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
@@ -13,6 +14,8 @@ export default defineConfig({
                 figcaption: "alt",
                 copyAttrs: "^class$",
             });
+
+            md.use(taskLists);
 
             // @ts-expect-error The error thrown here is incorrect
             md.use(tabsMarkdownPlugin);

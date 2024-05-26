@@ -3,6 +3,7 @@
     "type": "module",
     "devDependencies": {
         "@biomejs/biome": "^1.7.3",
+        "@hackmd/markdown-it-task-lists": "^2.1.4",
         "@types/bun": "latest",
         "markdown-it-image-figures": "^2.1.1",
         "markdown-it-mathjax3": "^4.3.2",

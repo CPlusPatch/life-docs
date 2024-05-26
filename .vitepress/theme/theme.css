@@ -20,3 +20,8 @@
 .vp-doc h1 {
   margin-top: 1.5em;
 }
+
+.vp-doc input.task-list-item-checkbox {
+  margin-right: 0.5em;
+  vertical-align: baseline;
+}

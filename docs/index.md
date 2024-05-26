@@ -8,6 +8,94 @@ This document is designed to be a general guide to living, with a focus on pract
 
 This is not meant to be comprehensive or exhaustive, but instead a collection of useful information that can be used to understand living.
 
+## Current Progress
+
+All documents are intended to be a superficial overview of the topic, with links to more detailed documents where necessary. Things that could not be considered easy to explain or "common sense" are not included.
+
+Content regarding historic events must not include details of tragedies or other sensitive topics, except a superficial overview. Focus is on understanding the structure of human development, rather than the specifics of events.
+
+Content regarding socio-economic systems, except for the basic concepts of economics, is not included. This includes political ideologies, social movements, and other complex topics. The focus is on understanding the basic structure of *current* society, rather than theory.
+
+In general, the focus is on practical knowledge that can be used in everyday life.
+
+- [x] Measurements
+  - [x] Metric System
+  - [x] Volume
+  - [x] Distance
+  - [x] Mass
+- [ ] Food
+  - [ ] Purchase of food
+  - [ ] Unsafe sources
+  - [ ] Basic cooking
+- [ ] Health & Safety
+- [ ] Social Interaction
+  - [ ] Your personal rights
+  - [ ] Simple communication
+  - [ ] Simple relationships
+    - [ ] Basics of attraction
+- [ ] Finance
+  - [ ] Money system
+  - [ ] Basics of economy
+  - [ ] Transactions
+  - [ ] Banking
+  - [ ] Taxes
+- [ ] Education
+  - [ ] Education system overview
+  - [ ] Primary education
+  - [ ] Secondary education
+  - [ ] Higher education
+- [ ] Work
+- [ ] Society
+  - [ ] Government
+  - [ ] Laws
+  - [ ] Democracy
+    - [ ] Information on elections across the world
+  - [ ] Other types of government
+  - [ ] Civil Rights
+- [ ] Reproduction
+  - [ ] Health
+  - [ ] Pregnancy
+  - [ ] Childbirth
+  - [ ] Child development
+- [ ] Science (**advanced**)
+  - [ ] Scientific method
+  - [ ] History of science
+  - [ ] Simple concepts
+    - [ ] Velocity
+    - [ ] Energy
+    - [ ] Gravity
+    - [ ] Light
+- [ ] History
+  - [ ] Pre-history (before 3000 BCE)
+  - [ ] Ancient history (3000 BCE-476 CE)
+  - [ ] Middle Ages (476-1492)
+  - [ ] Modern history (1492-1789)
+  - [ ] Recent history (1789+)
+    - [ ] Industrial Revolution
+    - [ ] World Wars (once again, no details on tragedies)
+- [ ] Specific Disorders (**to be written by professionals or those affected only, general overview**)
+  - [ ] Autism
+  - [ ] ADHD
+  - [ ] Dissociative Identity Disorder
+- [ ] Geography
+  - [ ] Continents (concept)
+  - [ ] Countries (concept and overview)
+  - [ ] Cities
+  - [ ] Oceans
+  - [ ] Climate
+  - [ ] Natural disasters
+  - [ ] Maps
+  - [ ] Time zones
+  - [ ] Coordinate system
+- [ ] Spaceflight
+  - [ ] History
+  - [ ] Planets and Moons
+    - [ ] Rovers, Landers, and Probes
+    - [ ] Satellites
+  - [ ] Vehicles (rockets)
+  - [ ] Solar system, galaxies (overview)
+- [ ] Critical Thinking
+- [ ] Other subjects
 
 > [!NOTE]
 > The rest of this specific page is intended to be a set of guidelines for **writing** documents in this repository. If you are simply looking for information on living, please refer to the other documents in this repository
